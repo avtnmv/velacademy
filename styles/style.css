@@ -754,7 +754,7 @@ line-height: normal;
 
 
     footer{
-        background-image: url(../img/footer-bg.png);
+        background-image: url(../img/footer-bg.webp);
         height: 512px;
     }
     .footer-container{
