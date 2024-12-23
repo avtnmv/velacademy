@@ -847,4 +847,228 @@ line-height: normal;
     .nav-links{
         display: none;
     }
+    .photo-container{
+        flex-direction: column-reverse;
+        align-items: center;
+
+    }
+    .photo img{
+        width: 320px;
+        height: 300px;
+    }
+    header{
+        width: 620px;
+    }
+    .text{
+        text-align: center;
+    }
+    .motto{
+        width: 320px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    }
+    .motto-p{
+        font-size: 36px;
+        line-height: 41px;
+    }
+    .motto-flex svg{
+        display: none;
+    }
+    .study a{
+        width: 320px;
+        padding: 0;
+    }
+    .about-me {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+      }
+      .gd-day{
+        flex-direction: column;
+      }
+      .gd-day img{
+        width: 320px !important;
+        height: 380px !important;
+      }
+      .about-me-second-first-p {
+        font-family: Roboto;
+        font-size: 50px;
+        font-weight: 500;
+        font-size: 22px;
+        text-align: center;
+        margin-top: 20px;
+      }
+      .about-me-second-second-p{
+        width: unset;
+        text-align: center;
+      }
+      .about-me-second{
+        width: 320px;
+      }
+      .acquaintance {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+      }
+      .acquaintance-first-blcok-first-p{
+        margin-top: 40px;
+      }
+      .acquaintance-first-blcok-first-p {
+        margin-top: 40px;
+        font-size: 22px;
+        text-align: center;
+      }
+      .acquaintance-first-blcok{
+        width: 320px;
+        align-items: center;
+      }
+      .acquaintance-first-blcok-second-p{
+        width: 320px;
+        text-align: center;
+      }
+      .link-button-pdf{
+        width: 320px;
+        padding: 0;
+      }
+      .cv-photo {
+        width: 320px;
+        height: 251px;
+        margin-top: 18px;
+      }
+      .watch-video{
+        margin-top: 40px;
+        flex-direction: column-reverse;
+      }
+      .iframe{
+        width: 320px;
+        height: 225px;
+      }
+      .width-unset{
+        width: 320px;
+      }
+      .study-div-container{
+        flex-direction: column;
+        align-items: center;
+        gap: 24px;
+      }
+      .study-div{
+        width: 320px;
+        height: auto;
+      }
+      .study-head{
+        width: 320px;
+        font-size: 14px;
+      }
+      .study-div-first-block{
+        margin-top: 20px;
+      }
+      .study2 a{
+        width: 196px;
+      }
+      .test-which-help{
+        flex-direction: column;
+        padding-top: 30px;
+      }
+      .test-first-block{
+        width: 320px;
+      }
+      .test-first-block p{
+        font-size: 16px;
+        text-align: center;
+      }
+      .test-first-block h2{
+        text-align: center;
+        font-size: 24px;
+      }
+      .test-block-img {
+        width: 320px;
+        height: 220px;
+      }
+      .test-img{
+        width: unset;
+        height: unset;
+        margin-top: 20px;
+      }
+      .review-container p {
+        width: 290px;
+        font-size: 16px;
+      }
+      .swiper-slide-content{
+        width: 320px;
+      }
+      .buttons-container {
+        width: 320px;
+        margin: auto;
+        margin-top: 25px;
+      }
+      .FAQ{
+        flex-direction: column;
+        gap: 20px;
+
+      }
+      .accordeon {
+        border-radius: 24px;
+        border: 1px solid #524FD5;
+        width: 320px;
+      }
+      .faq-first-block {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+      }
+      .faq-second-block {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+      }
+      #div1, #div2, #div3, #div4, #div5, #div6, #div7, #div8, #div9, #div10 {
+        width: 280px;
+        text-align: left;
+        color: #524FD5;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: normal;
+        margin-left: 29px;
+        margin-top: 10px;
+      }
+      .footer-nav {
+        display: flex;
+        gap: 60px;
+        display: none;
+      }
+      .footer-container{
+        flex-direction: column;
+        padding-top: 50px;
+      }
+      .footer-links-container {
+        max-width: 1440px;
+        margin: auto;
+        padding-left: 60px;
+        padding-right: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 320px;
+        flex-direction: column-reverse;
+        gap: 35px;
+      }
+      .text-to-telegram {
+        padding: 20px;
+        background-color: rgb(91, 88, 208);
+        color: #FFF;
+        width: 338px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        border-radius: 16px;
+        width: 290px;
+      }
+
 }
