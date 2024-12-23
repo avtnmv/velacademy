@@ -8,6 +8,9 @@
     scroll-behavior: smooth;
     list-style: none;
 }
+.overflow{
+    overflow-x: hidden;
+}
 header{
     margin-top: 10px;
 }
