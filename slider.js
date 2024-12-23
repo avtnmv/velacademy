@@ -1,6 +1,6 @@
 let swiper = new Swiper('.mySwiper', {
     slidesPerView: 1,
-    spaceBetween: 10,
+    spaceBetween: 30,
     navigation: {
         nextEl: '.custom-next',
         prevEl: '.custom-prev',
