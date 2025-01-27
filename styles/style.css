@@ -1073,5 +1073,11 @@ line-height: normal;
         border-radius: 16px;
         width: 290px;
       }
+    .header-container{
+        max-width: 1440px;
+        margin: auto;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 
 }
