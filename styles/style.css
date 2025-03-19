@@ -317,8 +317,9 @@ line-height: normal;
     border: 1px solid #524FD5;
     border-radius: 12px;
     color: #FFF;
-    padding: 12px 175px;
+    padding: 12px 0px;
     cursor: pointer;
+    font-size: 18px;
 }
 .link-button-pdf:hover{
     background-color: #6B68DD;
